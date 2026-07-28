@@ -115,7 +115,7 @@ body {
 
 /* Page Title */
 .page-title {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 30px auto 20px;
   padding: 0 20px;
 }
@@ -134,7 +134,7 @@ body {
 
 /* Card Grid */
 .card-grid {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 0 20px 40px;
   display: grid;
